@@ -11,7 +11,7 @@ function validate()
 	if ( (username === _s) && (password === _z))
 	{
 		alert ("Login successfully");
-		window.location = "loader.html"; //redirecting to other page
+		window.location = "https://html-tester-11.github.io/dashboard_1/"; //redirecting to other page
 		return false;
 	}
 	else{
