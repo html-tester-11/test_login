@@ -2,8 +2,8 @@ var message="Function Disabled!"; function clickIE4(){ if (event.button==2){ ale
 
 
 var tx = new Array (
-'ResultsTrack',
-'Triggering Efficiency & Effectiveness');
+'Html-tester-11',
+'test_login');
 var txcount=2;
 var i=1;
 var wo=0;
